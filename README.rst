@@ -28,7 +28,7 @@ To install run::
 
   pip install simplebot-poi
 
-Once installed send to the bot a message like: `geo: 46.012022036233546,9.29286152010328`
+Once installed send to the bot a message like: ``geo: 46.012022036233546,9.29286152010328``
 
 
 .. _SimpleBot: https://github.com/simplebot-org/simplebot
